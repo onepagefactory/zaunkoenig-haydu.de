@@ -308,7 +308,7 @@ $("#vertical-bullets").show().revolution({
             enable: true,
             hide_onmobile: true,
             hide_under: 769,
-            style: "gardening",
+            style: "zaunkoenig",
             hide_onleave: false,
             direction: "vertical",
             h_align: "right",

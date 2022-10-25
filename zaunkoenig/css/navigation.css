@@ -1,4 +1,4 @@
-.gardening.tp-bullets{
+.zaunkoenig.tp-bullets{
     height: 110px !important;
     width: 19px !important;
     text-align: center;
@@ -6,7 +6,7 @@
     position: relative;
 }
 
-.gardening .tp-bullet{
+.zaunkoenig .tp-bullet{
     position:relative;
     display: contents;
     background: transparent;
@@ -14,11 +14,11 @@
     box-sizing: content-box;
     display: none;
 }
-.single-slide .gardening .tp-bullet{
+.single-slide .zaunkoenig .tp-bullet{
     display: none !important;
 }
 
-.gardening .tp-bullet .tp-bullet-inner{
+.zaunkoenig .tp-bullet .tp-bullet-inner{
     width: 13px;
     height: 13px;
     margin: 10px 0;
@@ -34,7 +34,7 @@
     background: rgba(229,229,229,1);
 }
 
-.gardening .tp-bullet.selected .tp-bullet-inner{
+.zaunkoenig .tp-bullet.selected .tp-bullet-inner{
     background: #33c9dd;
     -webkit-transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -43,6 +43,6 @@
     transition: all .5s ease-in-out;
 }
 
-.dark-slider .gardening .tp-bullet.selected .tp-bullet-inner{
+.dark-slider .zaunkoenig .tp-bullet.selected .tp-bullet-inner{
     background: transparent;
 }
