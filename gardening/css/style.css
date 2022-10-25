@@ -244,6 +244,8 @@ blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
 section{padding: 7.5rem 0;}
 ::selection {background-color: #81a109; color: #ffffff;}
 
+.tp-bullet.selected {display:none}
+
 /* transition none */
 .no-transition *{transition-timing-function:initial; -moz-transition-timing-function:initial; -webkit-transition-timing-function:initial; -o-transition-timing-function:initial; -ms-transition-timing-function:initial; transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; -ms-transition-duration: 0s;}
 

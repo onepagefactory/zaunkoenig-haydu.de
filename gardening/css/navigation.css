@@ -12,6 +12,7 @@
     background: transparent;
     cursor: pointer;
     box-sizing: content-box;
+    display: none;
 }
 .single-slide .gardening .tp-bullet{
     display: none !important;
